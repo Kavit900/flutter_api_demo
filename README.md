@@ -3,7 +3,7 @@
 This repository contains Flutter API demo application.
 
 # Youtube Link
-https://www.youtube.com/watch?v=Z7JOFQJJx2E
+https://youtu.be/K6eRXUU9EJc
 
 # About Me
 Hi Folks! I am Kavit, a software engineer with a passion for teaching.
